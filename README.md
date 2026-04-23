@@ -23,6 +23,7 @@ We implemented a Power BI dashboard linked to Oracle EBS, providing real-time up
 - 📐 DAX: Used in Power BI for creating custom metrics and calculations.
   
 - 📱 PowerApps: Developed a mobile-friendly app for the sales team, enabling real-time communication and updates.
+- SharePoint for storing comments being added.
   
 <h2>🚀 Key Features</h2>
 
